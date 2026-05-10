@@ -1,0 +1,22 @@
+[
+  {
+    "color": "purple",
+    "title": "Computer Vision",
+    "description": "Object detection, CNNs, vision transformers (ViT), image segmentation techniques."
+  },
+  {
+    "color": "teal",
+    "title": "Machine Learning",
+    "description": "Supervised & semi-supervised learning, model efficiency, neural architecture optimization."
+  },
+  {
+    "color": "blue",
+    "title": "Natural Language Processing",
+    "description": "Transformer models, text classification, low-resource NLP for Bengali and South Asian languages."
+  },
+  {
+    "color": "amber",
+    "title": "Data-driven Systems",
+    "description": "Large-scale data pipelines, feature engineering, applied statistical learning methods."
+  }
+]

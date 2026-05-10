@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "title": "Data Augmentation Strategies for Skin Lesion Classification Using Deep Learning with Augmentation Policy Optimization",
+    "venue": "Third International Conference on Data Science and Communication",
+    "year": 2026,
+    "coauthors": "Author: MD. Hasibul Hossain | Co-authors: Dr. Dipankar Das, Dr. MD. Golam Rashed, Tahira Jahan",
+    "doi": null,
+    "status": "Under Review",
+    "statusColor": { "bg": "#fef3c7", "text": "#92400e" }
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "title": "Open-World Instance Segmentation with Incremental Learning",
+    "venue": "April 2026 - Present",
+    "year": 2026,
+    "coauthors": "Author: MD. Hasibul Hossain | Co-authors: Dr. Dipankar Das, Dr. MD. Golam Rashed, Tahira Jahan",
+    "doi": null,
+    "status": "Ongoing",
+    "statusColor": { "bg": "#eaf0fb", "text": "#204e9f" }
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "title": "Uncertainty-Guided Adaptive Augmentation for Robust and Calibrated Skin Lesion Classification",
+    "venue": "April 2026 - Present",
+    "year": 2026,
+    "coauthors": "Author: MD. Hasibul Hossain | Co-authors: Dr. Dipankar Das, Dr. MD. Golam Rashed, Tahira Jahan",
+    "doi": null,
+    "status": "Ongoing",
+    "statusColor": { "bg": "#eaf0fb", "text": "#204e9f" }
+  }
+]

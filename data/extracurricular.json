@@ -1,0 +1,26 @@
+{
+  "leadership": [
+    {
+      "title": "Class Representative",
+      "org": "Department of Information and Communication Engineering, University of Rajshahi",
+      "period": "2023 - 2025",
+      "description": "Served as class representative for two years, coordinating communication between students and faculty and supporting academic activities."
+    },
+    {
+      "title": "Department Football Team Captain",
+      "org": "Department of Information and Communication Engineering, University of Rajshahi",
+      "period": "Leadership Role",
+      "description": "Led the department football team, supporting teamwork, coordination, and match preparation."
+    }
+  ],
+  "activities": [
+    {
+      "title": "BNCC",
+      "org": "Bangladesh National Cadet Corps",
+      "period": "Extracurricular Activity",
+      "description": "Participated in cadet activities focused on discipline, teamwork, leadership, and community service.",
+      "certificate": "/images/BNCC.jpeg",
+      "certificateView": "rotate-left"
+    }
+  ]
+}

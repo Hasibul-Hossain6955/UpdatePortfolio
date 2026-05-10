@@ -1,0 +1,21 @@
+{
+  "name": "MD.Hasibul Hossain",
+  "title": "B.Sc in Information and Communication Engineering",
+  "institution": "University of Rajshahi, Bangladesh",
+  "classOf": "2026",
+  "status": "Open to MS positions - Fall 2026",
+  "email": "hasibulhasan6955@gmail.com",
+  "github": "https://github.com/Hasibul-Hossain6955",
+  "linkedin": "https://www.linkedin.com/in/hasibul-hossain-hasib/?skipRedirect=true",
+  "scholar": "https://scholar.google.com",
+  "cv": "/cv.pdf",
+  "bio": "Undergraduate researcher with experience in Computer Vision, Machine Learning, Deep Learning, NLP, and AI. Skilled in Python, PyTorch, and large-scale data processing, with two peer-reviewed publications and a strong software engineering background. Seeking a fully funded MS position to contribute to impactful research in Computer Vision and AI.",
+  "tags": ["Machine Learning", "NLP", "Computer Vision", "Deep Learning", "Data Science"],
+  "stats": {
+    "cgpa": "3.53",
+    "cgpaMax": "4.00",
+    "publications": 3,
+    "projects": 6,
+    "awards": 1
+  }
+}

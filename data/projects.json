@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Bengali NLP Toolkit",
+    "description": "Open-source preprocessing pipeline for Bengali text with tokenization, POS tagging, and stopword removal. Used by 200+ researchers with 1.2k GitHub stars.",
+    "tags": ["Python", "NLP", "HuggingFace"],
+    "link": "https://github.com/yourname/bengali-nlp",
+    "linkLabel": "GitHub ↗",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Real-time Object Detector",
+    "description": "YOLOv8-based detection model fine-tuned for Bangladeshi road scenes. Achieved 89% mAP on a custom annotated dataset of 8,000 images.",
+    "tags": ["PyTorch", "YOLOv8", "CV"],
+    "link": "#",
+    "linkLabel": "Demo ↗",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Fake News Classifier",
+    "description": "BERT-based binary classifier trained on Bangla news articles achieving F1 score of 0.91 on a held-out test set of 3,000 samples.",
+    "tags": ["BERT", "Classification", "NLP"],
+    "link": "https://github.com/yourname/fake-news",
+    "linkLabel": "GitHub ↗",
+    "featured": true
+  }
+]

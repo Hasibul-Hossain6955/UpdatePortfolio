@@ -1,0 +1,30 @@
+{
+  "education": [
+    {
+      "period": "2021 - 2026",
+      "title": "B.Sc in Information and Communication Engineering",
+      "org": "University of Rajshahi, Bangladesh",
+      "pill": "CGPA: 3.53 / 4.00",
+      "pillStyle": { "bg": "#eaf0fb", "text": "#204e9f" },
+      "active": true
+    },
+    {
+      "period": "2019 - 2021",
+      "title": "Higher Secondary Certificate",
+      "org": "Rajendrapur Cantonment Public School and College, Gazipur, Bangladesh",
+      "pill": "HSC Result: 5.00 / 5.00",
+      "pillStyle": { "bg": "#efedf7", "text": "#5f548c" },
+      "active": false
+    }
+  ],
+  "experience": [
+    {
+      "period": "November 2025 - Present",
+      "title": "Undergraduate Research Assistant",
+      "org": "Computer Vision and AI Lab, University of Rajshahi",
+      "pill": "Supervisor: Dr. Dipankar Das, Professor | dipankar@ru.ac.bd",
+      "pillStyle": { "bg": "#ebf5f3", "text": "#256c66" },
+      "active": true
+    }
+  ]
+}

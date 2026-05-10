@@ -1,0 +1,18 @@
+[
+  {
+    "title": "EDGE Program - Basic Programming in Python",
+    "provider": "EDGE Program",
+    "period": "Training Program",
+    "description": "Completed structured training on basic Python programming, covering core programming concepts, problem solving, and practical coding exercises.",
+    "certificate": "/images/Edge.jpg",
+    "certificateView": "rotate-left"
+  },
+  {
+    "title": "Project Showcasing in Web Technology",
+    "provider": "Web Technology Project Showcase",
+    "period": "Project Showcase",
+    "description": "Presented a web technology project demonstrating practical skills in frontend and backend development, user-focused interface design, and end-to-end project implementation.",
+    "certificate": "/images/projectshowCase.46.jpg",
+    "certificateView": "natural"
+  }
+]

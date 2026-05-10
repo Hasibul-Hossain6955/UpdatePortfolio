@@ -1,0 +1,15 @@
+[
+  { "name": "Python", "pct": 95, "color": "#1a56db", "category": "Tools and Methods" },
+  { "name": "PyTorch", "pct": 82, "color": "#1a56db", "category": "Tools and Methods" },
+  { "name": "TensorFlow / Keras", "pct": 75, "color": "#0d9488", "category": "Tools and Methods" },
+  { "name": "Scikit-learn", "pct": 88, "color": "#1a56db", "category": "Tools and Methods" },
+  { "name": "Pandas / NumPy", "pct": 90, "color": "#0d9488", "category": "Tools and Methods" },
+  { "name": "SQL & Databases", "pct": 70, "color": "#6d28d9", "category": "Tools and Methods" },
+  { "name": "LaTeX & Academic Writing", "pct": 78, "color": "#d97706", "category": "Tools and Methods" },
+  { "name": "Git & Version Control", "pct": 80, "color": "#1a56db", "category": "Tools and Methods" },
+  { "name": "C / C++", "pct": 60, "color": "#0d9488", "category": "Programming Languages" },
+  { "name": "Python", "pct": 50, "color": "#1a56db", "category": "Programming Languages" },
+  { "name": "Java", "pct": 40, "color": "#d97706", "category": "Programming Languages" },
+  { "name": "Web Technology (MERN Stack)", "pct": 80, "color": "#6d28d9", "category": "Programming Languages" },
+  { "name": "App Technology (React Native)", "pct": 60, "color": "#0d9488", "category": "Programming Languages" }
+]
