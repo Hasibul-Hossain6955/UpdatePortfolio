@@ -2154,7 +2154,9 @@ function renderHero(profile) {
   document.getElementById('hero-bio').textContent = profile.bio;
   document.getElementById('hero-subtitle').textContent = `${profile.title} | ${profile.institution} | Class of ${profile.classOf}`;
   document.getElementById('hero-name').innerHTML = `${esc(profile.name.split(' ').slice(0, -1).join(' '))} <em>${esc(profile.name.split(' ').slice(-1)[0] || '')}</em>`;
-  document.getElementById('nav-cv').href = profile.cv;
+  const navCv = document.getElementById('nav-cv');
+  navCv.href = profile.cv;
+  navCv.download = profile.cvDownloadName || '';
 
   document.getElementById('hero-tags').innerHTML = profile.tags.map(tag =>
     `<span class="tag ${TAG_CLASS[tag] || 'tag-blue'}">${esc(tag)}</span>`
